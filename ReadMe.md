@@ -3,7 +3,7 @@
 This repository contains code on performing basic SQL commands on a web table using [Java 8 Lambda and Streams](https://www.w3schools.com/java/java_lambda.asp)
 
 **_The idea behind is to fetch the data from a webtable and perform operations (similar to hitting SQL Queries on a database) using Java Streams API. 
-This can significantly help in reducing the LOC. It will also increase the efficiency**
+This can significantly help in reducing the LOC. It will also increase the efficiency_**
 
 #### Webtable link: https://datatables.net/extensions/select/examples/initialisation/checkbox.html
 ##### Attaching the SS of the table below:
