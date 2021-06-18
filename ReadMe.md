@@ -1,4 +1,4 @@
-## Java_DBOperationsUsingLambdaAndStreams
+## Examples on performing database operations using LambdaAndStreams
 
 This repository contains code on performing basic SQL commands on a web table using [Java 8 Lambda and Streams](https://www.w3schools.com/java/java_lambda.asp)
 
